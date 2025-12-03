@@ -1,6 +1,0 @@
-Namespace: redpoint.games
-Rulesets:
-- Name: oss-v1-rules-silence
-  Severity: Silence
-  Rules:
-  - Name: no-unsafe-calls

@@ -1,5 +1,0 @@
-Namespace: redpoint.games
-Rulesets:
-- Name: redpoint-eos-user-cache-public
-  Rulesets:
-  - eos-online-subsystem-public
