@@ -1,0 +1,5 @@
+Namespace: redpoint.games
+Rulesets:
+- Name: redpoint-eos-compat-public
+  Rulesets:
+  - eos-online-subsystem-public

@@ -1,0 +1,5 @@
+Namespace: redpoint.games
+# The UserCloud_Common.h/cpp files cause issues with the IWYU
+# analyser, and we can't use REDPOINT_EOS_IWYU_ALLOW_UNUSED_HEADERS_BEGIN()
+# without UHT complaining that UserCloud_Common.h isn't the first header.
+IWYUAnalysis: false
